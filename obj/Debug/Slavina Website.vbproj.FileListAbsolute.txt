@@ -1,0 +1,9 @@
+C:\Users\angel dimitrov\Documents\Visual Studio 2013\Projects\Slavina Website\Slavina Website\bin\Slavina Website.dll.config
+C:\Users\angel dimitrov\Documents\Visual Studio 2013\Projects\Slavina Website\Slavina Website\bin\Slavina Website.dll
+C:\Users\angel dimitrov\Documents\Visual Studio 2013\Projects\Slavina Website\Slavina Website\bin\Slavina Website.pdb
+C:\Users\angel dimitrov\Documents\Visual Studio 2013\Projects\Slavina Website\Slavina Website\bin\Slavina Website.xml
+C:\Users\angel dimitrov\Documents\Visual Studio 2013\Projects\Slavina Website\Slavina Website\obj\Debug\Slavina_Website.Resources.resources
+C:\Users\angel dimitrov\Documents\Visual Studio 2013\Projects\Slavina Website\Slavina Website\obj\Debug\Slavina Website.vbproj.GenerateResource.Cache
+C:\Users\angel dimitrov\Documents\Visual Studio 2013\Projects\Slavina Website\Slavina Website\obj\Debug\Slavina Website.dll
+C:\Users\angel dimitrov\Documents\Visual Studio 2013\Projects\Slavina Website\Slavina Website\obj\Debug\Slavina Website.xml
+C:\Users\angel dimitrov\Documents\Visual Studio 2013\Projects\Slavina Website\Slavina Website\obj\Debug\Slavina Website.pdb
